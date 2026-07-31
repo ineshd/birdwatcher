@@ -1,0 +1,3 @@
+[submodule "birdwatcher-rpi"]
+	path = birdwatcher-rpi
+	url = https://github.com/ineshd/birdwatcher-rpi
