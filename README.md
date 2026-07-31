@@ -1,4 +1,4 @@
-# rpi-birdwatch
+# birdwatcher
 
 Going to be working on this while I'm still recovering from surgery for fun (and to not be rusty after ~3 weeks of not writing code).
 
